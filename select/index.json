@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "youthful days",
+  "base_artist": "Mr.Children",
+  "createdAt": "2025-12-02T19:27:51.645491Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Youthful Days",
+      "artist": "Mr.Children",
+      "has_synced": true,
+      "path": "select/01_Youthful_Days_Mr.Children.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "youthful days",
+      "artist": "Mr.Children",
+      "has_synced": true,
+      "path": "select/02_youthful_days_Mr.Children.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Dear Youthful Days",
+      "artist": "Blue Journey",
+      "has_synced": true,
+      "path": "select/03_Dear_Youthful_Days_Blue_Journey.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "youthful days",
+      "artist": "Mr․Children",
+      "has_synced": true,
+      "path": "select/04_youthful_days_Mr.Children.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "youthful days",
+      "artist": "Mr.Children",
+      "has_synced": true,
+      "path": "select/05_youthful_days_Mr.Children.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "youthful days",
+      "artist": "mrchildren",
+      "has_synced": true,
+      "path": "select/06_youthful_days_mrchildren.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Youthful Days",
+      "artist": "Mr.Children",
+      "has_synced": true,
+      "path": "select/07_Youthful_Days_Mr.Children.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "youthful days",
+      "artist": "Mr.Children",
+      "has_synced": false,
+      "path": "select/pl_01_youthful_days_Mr.Children.txt"
+    }
+  ]
+}
